@@ -1,0 +1,23 @@
+.fs-4 {
+    font-size: 1.25rem; /* Adjust font size */
+}
+
+.fs-5 {
+    font-size: 1.125rem; /* Adjust font size */
+}
+
+.fs-6 {
+    font-size: 1rem; /* Adjust font size */
+}
+
+.border-top-gray {
+    border-top: 1px solid #dee2e6;
+}
+
+.text-dark {
+    color: #343a40;
+}
+
+.text-muted {
+    color: #6c757d;
+}
